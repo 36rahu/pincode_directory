@@ -3,7 +3,7 @@ from setuptools import setup
 setup(name='pincode_directory',
       version='1.0.0',
       description='Small directory to get the deatials of indian pincodes.',
-      url='',
+      url='https://github.com/36rahu/pincode_directory',
       author='Rahul K P',
       author_email='36rahu@gmail.com',
       license='MIT',
